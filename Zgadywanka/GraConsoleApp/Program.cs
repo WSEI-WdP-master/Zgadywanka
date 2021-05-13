@@ -6,7 +6,8 @@ namespace GraConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Kontroler app = new Kontroler();
+            app.Run();
         }
     }
 }

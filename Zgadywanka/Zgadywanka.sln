@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectGra", "TestProje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraConsoleApp", "GraConsoleApp\GraConsoleApp.csproj", "{A0E7E2D2-2044-4B1D-86EB-CC8DB9589023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppGra", "WinFormsAppGra\WinFormsAppGra.csproj", "{BBB6D3A6-209C-4745-A039-0DE9DE13C70E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A0E7E2D2-2044-4B1D-86EB-CC8DB9589023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E7E2D2-2044-4B1D-86EB-CC8DB9589023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E7E2D2-2044-4B1D-86EB-CC8DB9589023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB6D3A6-209C-4745-A039-0DE9DE13C70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB6D3A6-209C-4745-A039-0DE9DE13C70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB6D3A6-209C-4745-A039-0DE9DE13C70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB6D3A6-209C-4745-A039-0DE9DE13C70E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
